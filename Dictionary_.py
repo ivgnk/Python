@@ -1,5 +1,7 @@
 # Первый тестовый
 # Второй тестовый
+# GitHub - команды push и pull
+# http://gearmobile.github.io/git/github-push-and-pull/
 month_switcher = {
     1: "January",
     2: "February",
